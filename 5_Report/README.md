@@ -95,7 +95,8 @@ By using Atmega328 an display  an ultrasonic sensor mainly used to determine the
 
 # Structural Diagram
 
-![ultra2](https://user-images.githubusercontent.com/94118726/143897055-31eeff08-deec-49d0-bc72-55f07e68ca4e.JPG)
+![StructureDiagram](https://user-images.githubusercontent.com/97964755/164710595-7cd32df9-ea2d-4d1a-8aff-092369afdd94.png)
+
 
 # Block  Diagram
 
