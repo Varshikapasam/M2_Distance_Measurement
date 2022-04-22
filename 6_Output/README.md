@@ -13,6 +13,7 @@
 
 ### Output-3
 
+![OUtput-3](https://user-images.githubusercontent.com/97964755/164712565-7be8e024-fa26-40a1-a336-b7df00f3933e.png)
 
 
 
