@@ -101,7 +101,8 @@ By using Atmega328 an display  an ultrasonic sensor mainly used to determine the
 # Block  Diagram
 
 
-![ultra](https://user-images.githubusercontent.com/94118726/143897237-a742245d-ef65-4779-8586-bbd8e7f5786a.JPG)
+![BlockDiagram](https://user-images.githubusercontent.com/97964755/164710734-79fc9833-111c-4b4a-b3d9-b5038084c288.png)
+
 
 
 # Behavioural of Project :
