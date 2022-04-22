@@ -15,3 +15,7 @@
 
 
 [![Build_CI - Linux](https://github.com/Varshikapasam/M2_Distance_Measurement/actions/workflows/Linux.yml/badge.svg)](https://github.com/Varshikapasam/M2_Distance_Measurement/actions/workflows/Linux.yml)
+
+
+
+[![Git Inspector](https://github.com/Varshikapasam/M2_Distance_Measurement/actions/workflows/git%20inspector.yml/badge.svg)](https://github.com/Varshikapasam/M2_Distance_Measurement/actions/workflows/git%20inspector.yml)
