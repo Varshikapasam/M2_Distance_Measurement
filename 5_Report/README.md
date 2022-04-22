@@ -177,7 +177,8 @@ By using Atmega328 an display  an ultrasonic sensor mainly used to determine the
 # Circuit Diagram
 
 
-![Circuit_diagram](https://user-images.githubusercontent.com/94118726/144074359-548a8b4f-10af-4f73-927f-d82e208a613b.jpg)
+![BehavioralDiagram](https://user-images.githubusercontent.com/97964755/164711076-b0f7d625-bd10-497a-866f-c9efd2aa02d4.png)
+
 
 
 
