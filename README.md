@@ -12,3 +12,6 @@
 
 
 [![Code Quality - Cppcheck](https://github.com/Varshikapasam/M2_Distance_Measurement/actions/workflows/cpp.yml/badge.svg)](https://github.com/Varshikapasam/M2_Distance_Measurement/actions/workflows/cpp.yml)
+
+
+[![Build_CI - Linux](https://github.com/Varshikapasam/M2_Distance_Measurement/actions/workflows/Linux.yml/badge.svg)](https://github.com/Varshikapasam/M2_Distance_Measurement/actions/workflows/Linux.yml)
