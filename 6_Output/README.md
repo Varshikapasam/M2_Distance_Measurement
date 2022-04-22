@@ -3,6 +3,7 @@
 
 ### Output-1
 
+![Output-1](https://user-images.githubusercontent.com/97964755/164712387-b70ddffa-341b-4e0b-b786-e3051329ed18.png)
 
 
 ### Output-2
