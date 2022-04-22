@@ -184,7 +184,8 @@ By using Atmega328 an display  an ultrasonic sensor mainly used to determine the
 
 # Simulation on Simul IDE
 
-![out1](https://user-images.githubusercontent.com/94118726/144175612-ed6c3db1-e5ee-4556-a22e-9f51698de7a3.JPG)
+![Simulation](https://user-images.githubusercontent.com/97964755/164711200-7580b39c-c1b5-4f92-ac18-0e03027116a0.png)
+
 
 
 # Test Plan
