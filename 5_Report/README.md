@@ -107,7 +107,8 @@ By using Atmega328 an display  an ultrasonic sensor mainly used to determine the
 
 # Behavioural of Project :
 
-![Figure-3-Obstacle-detection-and-avoidance-using-ultrasonic-sensor](https://user-images.githubusercontent.com/94224849/144086135-364cb8e4-6db0-4110-93bd-e6924d1fc514.png)
+![Flowchart](https://user-images.githubusercontent.com/97964755/164710887-d47e959b-43fe-4d9b-a1f1-316fa8c9e61e.png)
+
 
 
 
