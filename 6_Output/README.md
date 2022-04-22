@@ -8,6 +8,7 @@
 
 ### Output-2
 
+![Output-2](https://user-images.githubusercontent.com/97964755/164712493-7e380a3e-ca12-4527-bc85-dba1f4e99a21.png)
 
 
 ### Output-3
